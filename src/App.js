@@ -25,6 +25,16 @@ function App() {
   );
 }
 
+function MainWrapper(){
+  return(
+    <div className="">
 
+
+
+
+    </div>
+  );
+}
 
 export default App;
+export default MainWrapper;
