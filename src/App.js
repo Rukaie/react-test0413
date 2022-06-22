@@ -29,9 +29,6 @@ function MainWrapper(){
   return(
     <div className="">
 
-
-
-
     </div>
   );
 }
